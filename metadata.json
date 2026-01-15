@@ -1,0 +1,7 @@
+{
+  "name": "React Zombies 3D Games",
+  "description": "A 3D FPS zombie survival game inspired by Black Ops Zombies.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
